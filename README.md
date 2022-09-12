@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/aline-tg/">
-  <img height="180em" width="120em" src="https://github-readme-stats.vercel.app/api?username=aline-tg&show_icons=false&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aline-tg&show_icons=false&theme=rose_pine&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-tg&layout=compact&langs_count=7&theme=rose_pine"/>
